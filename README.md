@@ -38,12 +38,11 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </p>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gxmestk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gxmestk&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gxmestk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&langs_count=7&theme=transparent" />
+</p>
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Gxmestk&theme=onedark)
