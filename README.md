@@ -15,11 +15,11 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <!--<a href="https://twitter.com/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>-->
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://youtube.com/@YOUR_CHANNEL" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <!--<a href="mailto:YOUR_EMAIL@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>-->
 </p>
 
 ---
@@ -36,31 +36,31 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gxmestk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxmestk&layout=compact&langs_count=7&theme=dracula" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gxmestk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Gxmestk's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxmestk&layout=compact&langs_count=7&theme=dracula" alt="Gxmestk's Top Languages" />
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies:
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gxmestk&theme=onedark" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
 ### 📈 Contribution Graph:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Gxmestk&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gxmestk&theme=react-dark" alt="Contribution Graph" />
+</div>
 
 ---
 
 ### 👁️ Visitor Count:
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Gxmestk/count.svg" alt="Visitor Count" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gxmestk" alt="Visitor Count" />
+</div>
 
 ---
 
