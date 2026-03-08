@@ -111,7 +111,7 @@ While my primary focus is on utilizing AI in games, I consider myself a lifelong
 ---
 
 <div align="center">
-  <p>🎮 AI × Games — training agents, shipping worlds</p>
+  <p>🎮 Game Start 🎮</p>
 </div>
 
 <!---
