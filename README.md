@@ -46,6 +46,10 @@
 
 #### AI & ML
 <p align="left">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/></a>
+  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Qdrant-E50914?style=for-the-badge&logoColor=white" alt="Qdrant"/></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/></a>
   <a href="https://burn.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Burn-FF6B35?style=for-the-badge&logoColor=white" alt="Burn"/></a>
