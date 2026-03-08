@@ -30,6 +30,7 @@ While my primary focus is on utilizing AI in games, I consider myself a lifelong
 - 🖥️ Computer graphics & physics engines
 - ⛓️ Blockchain technology
 - 📐 Mathematical optimization & high-performance computing
+- 🔬 **Unconventional computing** (quantum, neuromorphic, reservoir, DNA, optical/photonic, memcomputing)
 
 ---
 
