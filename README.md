@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" alt="Banner" width="100%"/>
-</div>
-
 <h1 align="center">Hi there, I'm Gxmestk! 👋</h1>
 
 <p align="center">
-  <em>AI × Game Development | Procedural Generation | Intelligent Systems</em>
+  <em>AI × Game | Automation | Ikigai</em>
 </p>
 
 <p align="center">
