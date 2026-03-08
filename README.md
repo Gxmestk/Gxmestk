@@ -5,18 +5,27 @@
 <h1 align="center">Hi there, I'm Gxmestk! 👋</h1>
 
 <p align="center">
-  <em>Passionate developer exploring new technologies & open source</em>
+  <em>AI × Game Development | Procedural Generation | Intelligent Systems</em>
 </p>
 
 ---
 
 ### 🧭 About Me
 
-- 🔭 Exploring the depths of software development
-- 🌱 Currently diving into open source contributions
-- 💞️ Open to collaborating on challenging projects
-- 💡 Love solving complex problems and building impactful applications
-- ⚡ Fun fact: I believe with code, anything is possible!
+My core interests lie at the intersection of **3D game development** and **artificial intelligence**. I am fascinated by:
+
+- 🎮 **Procedural Content Generation (PCG)** & **Destruction (PCD)**
+- 🤖 **Realistic NPCs**, in-game novel object generation & automated game testing
+- 🎨 **Game asset generation** & data-driven game development
+- 🧠 **Reinforcement Learning (RL)**, **Large Language Models (LLMs)** & **Agentic AI**
+
+While my primary focus is on utilizing AI in games, I consider myself a lifelong learner and am highly open to exploring interdisciplinary technologies to improve the gaming domain.
+
+**Additional Interests:**
+- ⚙️ Low-level programming (Rust, C, C++)
+- 🖥️ Computer graphics & physics engines
+- ⛓️ Blockchain technology
+- 📐 Mathematical optimization & high-performance computing
 
 ---
 
