@@ -8,6 +8,10 @@
   <em>AI × Game Development | Procedural Generation | Intelligent Systems</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gxmestk&color=blueviolet" alt="Visitor Count" />
+</p>
+
 ---
 
 ### 🧭 About Me
@@ -93,23 +97,6 @@ While my primary focus is on utilizing AI in games, I consider myself a lifelong
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gxmestk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Gxmestk's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxmestk&layout=compact&langs_count=7&theme=dracula" alt="Gxmestk's Top Languages" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gxmestk&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <picture>
@@ -117,14 +104,6 @@ While my primary focus is on utilizing AI in games, I consider myself a lifelong
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gxmestk/Gxmestk/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gxmestk/Gxmestk/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-### 👁️ Visitors
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gxmestk&color=blueviolet" alt="Visitor Count" />
-</div>
 
 ---
 
