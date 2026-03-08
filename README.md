@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gxmestk&color=blueviolet" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Gxmestk&color=green" alt="Visitor Count" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ While my primary focus is on utilizing AI in games, I consider myself a lifelong
 ---
 
 <div align="center">
-  <p>⚡ Built with ❤️ and lots of ☕</p>
+  <p>🎮 AI × Games — training agents, shipping worlds</p>
 </div>
 
 <!---
