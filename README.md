@@ -103,9 +103,11 @@
 
 ### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gxmestk&theme=react-dark" alt="Contribution Graph" />
-</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gxmestk/Gxmestk/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gxmestk/Gxmestk/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gxmestk/Gxmestk/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -114,14 +116,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gxmestk&color=blueviolet" alt="Visitor Count" />
 </div>
-
----
-
-### 💭 Random Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 ---
 
