@@ -46,12 +46,14 @@
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/></a>
   <a href="https://burn.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Burn-FF6B35?style=for-the-badge&logoColor=white" alt="Burn"/></a>
+  <a href="https://comfyanonymous.github.io/ComfyUI/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ComfyUI-3B82F6?style=for-the-badge&logoColor=white" alt="ComfyUI"/></a>
   <a href="https://claude.ai/code" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/></a>
   <a href="https://opencode.ai" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCode-6366F1?style=for-the-badge&logoColor=white" alt="OpenCode"/></a>
 </p>
 
 #### Graphics & Game Dev
 <p align="left">
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/></a>
   <a href="https://bevyengine.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logoColor=white" alt="Bevy"/></a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/></a>
   <a href="https://www.w3.org/TR/webgpu/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WebGPU-00599C?style=for-the-badge&logoColor=white" alt="WebGPU"/></a>
