@@ -16,21 +16,24 @@
 
 ### 🧭 About Me
 
-My core interests lie at the intersection of **3D game development** and **artificial intelligence**. I am fascinated by:
+My core interests lie at the intersection of **3D game development** and **artificial intelligence**.
 
-- 🎮 **Procedural Content Generation (PCG)** & **Destruction (PCD)**
-- 🤖 **Realistic NPCs**, in-game novel object generation & automated game testing
-- 🎨 **Game asset generation** & data-driven game development
-- 🧠 **Reinforcement Learning (RL)**, **Large Language Models (LLMs)** & **Agentic AI**
+#### 🤖 AI in Games
+- **Procedural Content Generation (PCG)** & **Destruction (PCD)**
+- **Realistic NPCs**, in-game novel object generation & automated game testing
+- **Reinforcement Learning (RL)**, **Large Language Models (LLMs)** & **Agentic AI**
+
+#### 🎮 Game Development
+- **Realistic movement & animation**
+- **Game asset generation** & data-driven game development
+- **Computer graphics** & physics engines
+
+#### ⚙️ Technical Foundations
+- **Languages**: Low-level programming (Rust, C, C++)
+- **Infrastructure**: Blockchain, mathematical optimization, high-performance computing
+- **Emerging**: Unconventional computing (Quantum, Optical/Photonic, Ternary)
 
 While my primary focus is on utilizing AI in games, I consider myself a lifelong learner and am highly open to exploring interdisciplinary technologies to improve the gaming domain.
-
-**Additional Interests:**
-- ⚙️ Low-level programming (Rust, C, C++)
-- 🖥️ Computer graphics & physics engines
-- ⛓️ Blockchain technology
-- 📐 Mathematical optimization & high-performance computing
-- 🔬 **Unconventional computing** (quantum, neuromorphic, reservoir, DNA, optical/photonic, memcomputing)
 
 ---
 
